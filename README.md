@@ -1,16 +1,15 @@
-## Hi there 👋
+# AZAZELL TH
 
-<!--
-**azazelth-ad/azazelth-ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio! I'm building projects here.
 
-Here are some ideas to get you started:
+## About Me
+- Learning web development
+- Interested in [your interests]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects Coming Soon
+- Project 1
+- Project 2
+
+## Contact
+- GitHub: [your profile link]
+- Email: your-email@example.com
