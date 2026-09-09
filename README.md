@@ -4,7 +4,7 @@ Welcome to my portfolio! I'm building projects here.
 
 ## About Me
 - Learning web development
-- Interested in [your interests]
+- Interested in [Website]
 
 ## Projects Coming Soon
 - Project 1
