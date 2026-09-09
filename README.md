@@ -11,5 +11,5 @@ Welcome to my portfolio! I'm building projects here.
 - Project 2
 
 ## Contact
-- GitHub: [your profile link]
-- Email: your-email@example.com
+- GitHub: [https://github.com/azazelth-ad/azazel-streming]
+- Email: Cown238@gmail.com
